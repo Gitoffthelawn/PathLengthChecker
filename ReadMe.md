@@ -5,6 +5,8 @@ It includes features such as pattern matching and min/max length constraints, as
 
 Download it from [the Releases page](https://github.com/deadlydog/PathLengthChecker/releases).
 
+If you enjoy this project, consider giving it a GitHub star ⭐ to show your support.
+
 ## Running via the GUI (Graphical User Interface)
 
 To run the Path Length Checker using the GUI, run the `PathLengthCheckerGUI.exe`.
